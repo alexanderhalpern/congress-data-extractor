@@ -1,6 +1,6 @@
 # Congress Field Hearings
 
-Fetches House Oversight Committee hearing data and populates an Excel spreadsheet using Claude.
+Fetches House Oversight Committee hearing data and populates an Excel spreadsheet using Anthropic API.
 
 ## Setup
 
